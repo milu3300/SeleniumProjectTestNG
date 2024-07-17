@@ -101,7 +101,7 @@ public class ParaBankTest {
    public void logIn(){
        ParaBankTest paraBankTest = new ParaBankTest();
        paraBankTest.name.click();
-       paraBankTest.name.sendKeys("anna123");
+     //git a  paraBankTest.name.sendKeys("anna123");
        paraBankTest.pass.click();
        paraBankTest.pass.sendKeys("admin123");
        paraBankTest.logInBtn.click();
